@@ -1,0 +1,238 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    cursor: pointer;
+}
+
+.welcomepage h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    position: relative;
+    top: 30px;
+    color: whitesmoke;
+    transition-property: opacity, transform;
+    font-family: "Playfair_Display variant1", Tofu;
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: expanded;
+    font-optical-sizing: auto;
+    opacity: 2;
+    line-height: initial;
+    transition-duration: 350ms;
+}
+
+
+.welcomepage {
+    padding-bottom: 50px;
+    margin: 0px;
+    border: 0px;
+    background-image: url(https://i.pinimg.com/474x/c3/50/b7/c350b7580ef6954ceb4542e668234cd1.jpg);
+    position: relative;
+    bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.navbar ul {
+    list-style-type: none;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    right: 20px;
+    padding-top: 20px;
+    word-spacing: 4em;
+}
+
+#navigation1 {
+    padding: 20px;
+    text-size-adjust: 200px;
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+
+#navigation2 {
+    padding: 20px;
+    text-size-adjust: 200px;
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+
+#navigation3 {
+    padding: 10px;
+    text-size-adjust: 200px;
+    display: inline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.navbar a:hover {
+    color: aliceblue;
+}
+
+
+#rare {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    transition-property: opacity, transform;
+    font-family: "Playfair_Display variant1", Tofu;
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    font-optical-sizing: auto;
+    opacity: 1;
+    line-height: initial;
+    transition-duration: 350ms;
+}
+
+#luxury {
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+#out {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#button {
+
+    background-color: brown;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#button:hover {
+    background-color: maroon;
+}
+
+.card {
+    display: inline-block;
+    margin: 10px;
+    position: relative; 
+  }
+  
+  .card .overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .card:hover .overlay {
+    opacity: 1;
+  }
+  
+  .card img {
+    max-width: 100%; 
+    max-height: 100%; 
+    display: block;
+    border-radius: 10px;
+  }
+  .explore{
+    background-color: brown;
+    position: relative;
+    bottom: 20px;
+  }
+  
+#pages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+.artwork {
+    width: 250px;
+    padding: 40px;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.artwork img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.artwork .title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.artwork .price {
+    font-size: 16px;
+    color: green;
+    margin-top: 5px;
+}
+
+.artwork .description {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+
+.artwork .butn {
+    background-color: lightseagreen;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.artwork .butn:hover {
+    background-color: lightslategrey;
+}
+.info{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+.moreInfo{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}

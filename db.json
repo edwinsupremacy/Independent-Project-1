@@ -1,0 +1,257 @@
+{
+    "artworks": [
+        {
+            "id": 1,
+            "title": "The Starry Night",
+            "artist": "Vincent van Gogh",
+            "description": "The Starry Night is an oil on canvas painting by the Dutch post-impressionist painter Vincent van Gogh. Painted in June 1889, it measures 74.11 cm by 92.11 cm.",
+            "image": "assets/images/starynight.jpeg",
+            "price":"$23.8 million"
+        },
+        {
+            "id": 2,
+            "title": "The Persistence of Memory",
+            "artist": "Salvador Dalí",
+            "description": "The Persistence of Memory is a painting by Salvador Dalí, created in 1931. This surrealist painting is one of Dalí's most recognizable works, featuring a desolate landscape with melting pocket watches. The painting is also known as Melting Clocks and is believed to explore the concept of time and its subjective nature. The painting's dimensions are 24.1 cm by 33 cm, and it is currently housed at the Museum of Modern Art in New York City.",
+            "image": "assets/images/The_Persistence_of_Memory.jpg",
+            "price":"$20.2 million"
+        },
+        {
+            "id": 3,
+            "title": "The Scream",
+            "artist": "Edvard Munch",
+            "description": "The Scream is a painting by Edvard Munch, created in 1893. It is a famous expressionist painting that depicts a distressed figure against a backdrop of a turbulent sky and a swirling landscape. The painting is believed to represent the anxiety and despair of modern life. The painting's dimensions are 91 cm by 73.5 cm, and it is currently housed at the National Museum in Oslo, Norway.",
+            "image": "assets/images/The_Scream.jpg",
+            "price":"$19 million"
+        },
+        {
+            "id": 4,
+            "title": "The Girl with a Pearl Earring",
+            "artist": "Johannes Vermeer",
+            "description":"painting by Johannes Vermeer, created in 1665. It is an oil on canvas painting that depicts a young woman wearing a blue and gold turban with a large pearl earring. The painting is known for its use of light and shadow, as well as its depiction of the subject's facial expression and gaze. The painting is currently housed at the Mauritshuis in The Hague, Netherlands.",
+            "image": "assets/images/1665_Girl_with_a_Pearl_Earring.jpg",
+            "price":"$10 million"
+        },
+        {
+            "id": 5,
+            "title": "The Night Watch",
+            "artist": "Rembrandt",
+            "description":"a painting by Rembrandt, created in 1642. It is an oil on canvas painting that depicts a group of civic guardsmen in Amsterdam. The painting is known for its use of light and shadow, as well as its innovative composition and technique",
+            "image": "assets/images/The_Night_Watch_-_HD.jpg",
+            "price":"$30.8 million"
+        },
+        {
+            "id": 6,
+            "title": "The Arnolfini Portrait",
+            "artist": "Jan van Eyck",
+            "description":"a painting by Jan van Eyck, created in 1434. It is an oil on oak panel painting that depicts a married couple, Giovanni di Nicolao Arnolfini and his wife, in their home in Bruges. The painting is known for its intricate details, use of light and shadow, and its depiction of the couple's social status",
+            "image": "assets/images/The_Arnolfini_portrait_(1434).jpg",
+            "price":"$19.9 million"
+        },
+        {
+            "id": 7,
+            "title": "The Last Supper",
+            "artist": "Leonardo da Vinci",
+          "description":" a painting by Leonardo da Vinci, created in 1498. It is a tempera on gesso, pitch, and mastic painting that measures 460 cm by 880 cm. The painting depicts the last supper of Jesus Christ with his apostles, as described in the Bible. The painting is known for its use of perspective and its depiction of emotion and drama.",
+            "image": "assets/images/The_Last_Supper.jpg",
+            "price":"$50.4 million"
+        }
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "make": "Bugatti La Voiture Noire",
+            "year": 2019,
+            "price": "$1.8 million",
+            "description": "A one-off hypercar inspired by the Bugatti Type 57SC Atlantic. It features a quad-turbo W16 engine producing 1,479 horsepower.",
+            "image": "assets/images/Bugatti_La_Voiture_Noire_.jpg"
+        },
+        {
+            "id": 2,
+            "make": "Pagani Huarya BC",
+            "year": 2016,
+            "price": "$2.8 million",
+            "image": "assets/images/PaganiHuarya.jpg",
+            "description": "The Huayra BC is named after Benny Caiola, a friend of Horacio Pagani and the first Pagani customer. It's a high-performance variant of the Huayra hypercar, featuring extensive use of carbon fiber and aerodynamic enhancements. The car is powered by a twin-turbocharged Mercedes-AMG V12 engine, producing around 750 horsepower. The Huayra BC is lighter and more track-focused compared to the standard Huayra, with a number of performance upgrades and modifications."
+        },
+        {
+            "id": 3,
+            "make": "Rolls-Royce Sweptail",
+            "year": 2017,
+            "price":"$12 million",
+            "image": "assets/images/Rolls-Royce_Sweptail.jpg",
+            "description": "A custom-built luxury coupe commissioned by a wealthy client. It features a unique design with a panoramic glass roof and luxurious interior appointments."
+        },
+        {
+            "id": 4,
+            "make": "Koenigsegg Jesko",
+            "year": 2020,
+            "price": "$2.8 million",
+            "image": "assets/images/jesko.jpg",
+            "description": "The Jesko features a newly developed twin-turbocharged V8 engine called the Koenigsegg V8, capable of producing up to 1,600 horsepower on E85 biofuel or 1,280 horsepower on regular gasoline. It also incorporates advanced aerodynamics and lightweight construction to optimize performance."
+        },
+        {
+            "id": 5,
+            "make": "Lamborghini Veneno",
+            "year": 2013,
+            "price": "$4.5 million",
+            "image": "assets/images/Lamborghini_Veneno_1.jpg",
+            "description": "A limited edition hypercar based on the Lamborghini Aventador, featuring an aggressive design and a powerful V12 engine."
+        },
+        {
+            "id": 6,
+            "make": "Maybach excelero",
+            "year": 2012,
+            "price": "$8 million",
+            "image": "assets/images/Excelero.jpg",
+            "description": "A one-off custom-built coupe with a twin-turbo V12 engine producing 690 horsepower. It was originally commissioned for tire testing by Fulda."
+        },
+        {
+            "id": 7,
+            "make": "Koenigsegg CCXR Trevita",
+            "year": 2009,
+            "price": "$4.8 million",
+            "image": "assets/images/Koenigsegg_CCX.jpg",
+            "description": "A limited edition hypercar featuring a unique diamond-weave carbon fiber finish and a twin-supercharged V8 engine producing over 1,000 horsepower."
+        },
+        {
+            "id": 8,
+            "make": "Bugatti Centodieci",
+            "year": 2020,
+            "price": "8 million",
+            "image": "assets/images/Bugatti_Centodieci.png",
+            "description": "A limited edition hypercar paying homage to the Bugatti EB110. It features a quad-turbo W16 engine producing 1,578 horsepower."
+        },
+        {
+            "id": 9,
+            "make": "Pagani Zonda HP Barchetta",
+            "year": 2012,
+            "price": "17.5 million",
+            "image": "assets/images/Pagani_Zonda.jpg",
+            "description": "A limited edition roadster with a carbon fiber body and a naturally aspirated V12 engine producing 789 horsepower."
+        }
+    ],
+    "jewelry": [
+        {
+            "id": 1,
+            "name": "The Graff Pink Diamond",
+            "description": "One of the rarest diamonds in the world, the Graff Pink is a 24.78-carat fancy intense pink diamond. It was sold at auction in 2010 for over $46 million.",
+            "price": "$46 million",
+            "image": "assets/images/graff.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "The Blue Moon Diamond",
+            "description": "The Blue Moon Diamond is a 12.03-carat fancy vivid blue diamond. It was sold at auction in 2015 for over $48 million.",
+            "price": "$48 million",
+            "image": "assets/images/bluemoon.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "The Oppenheimer Blue Diamond",
+            "description": "The Oppenheimer Blue Diamond is a 14.62-carat fancy vivid blue diamond. It was sold at auction in 2016 for over $50 million.",
+            "price": "$50 million",
+            "image": "assets/images/oppenheimer.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "The Pink Star Diamond",
+            "description": "The Pink Star Diamond is a 59.60-carat fancy vivid pink diamond. It was sold at auction in 2017 for over $71 million, making it the most expensive diamond ever sold at auction.",
+            "price": "$71 million",
+            "image": "assets/images/pinkstar.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "The Winston Blue Diamond",
+            "description": "The Winston Blue Diamond is a 13.22-carat fancy vivid blue diamond. It was sold at auction in 2014 for over $23.8 million.",
+            "price": "$23.8 million",
+            "image": "assets/images/winstonBlue.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "The Pink Promise Diamond",
+            "description": "The Pink Promise Diamond is a 14.93-carat fancy vivid pink diamond. It was sold at auction in 2017 for over $32 million.",
+            "price": "$32 million",
+            "image": "assets/images/pinkpromise.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "The Unique Pink Diamond",
+            "description": "The Unique Pink Diamond is a 15.38-carat fancy vivid pink diamond. It was sold at auction in 2016 for over $31.6 million.",
+            "price": "$31.6 million",
+            "image": "assets/images/uniquePink.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "The Graff Pink Legacy Diamond",
+            "description": "The Graff Pink Legacy Diamond is a 18.96-carat fancy vivid pink diamond. It was sold at auction in 2018 for over $50 million, setting a record price per carat for a pink diamond.",
+            "price": "$50 million",
+            "image": "assets/images/graffpinklegacy.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "The Apollo and Artemis Diamonds",
+            "description": "The Apollo and Artemis Diamonds are a pair of fancy colored diamonds, one blue and one pink. They were sold together at auction in 2017 for over $57.4 million.",
+            "price": "$57.4 million",
+            "image": "assets/images/apolloandartemis.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "The Hope diamond",
+            "description": "Aside from its magical look, legends about the diamond’s bad luck and curses have created the opposite effect, making it a jewel that has been highly sought after throughout history. These legends may have been stimulated by the strange luminescence in the diamond. Its trace amounts of boron leave the stone glowing a startling red when removed from all light sources..",
+            "price": "$250 million",
+            "image": "assets/images/the-hope-diamond-1.jpg"
+        }
+    ],
+    "watches": [
+        {
+            "id": 1,
+            "name": "Patek Philippe Grandmaster Chime",
+            "price": "$31 million",
+            "description": "highly complicated wristwatch with a reversible case, featuring two dials and 20 complications, including a minute repeater, a grande and petite sonnerie, an alarm, a perpetual calendar, a second-time zone, and a moon phase indicator. It was released in 2014 to celebrate Patek Philippe's 175th anniversary and is powered by the Calibre 300 GS AL 36-750 QIS FUS IRM manual-winding movement.",
+            "image": "assets/images/grandmasterchime.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Richard Mille RM 56-02 Sapphire",
+            "price": "$2million",
+            "description": "is a high-end luxury watch featuring a sapphire crystal case and a movement suspended by a complex cable and pulley system. The watch is powered by the RM56-02 manual-winding tourbillon movement, which is visible through the transparent case. The timepiece is known for its exceptional craftsmanship, innovative design, and use of high-tech materials.",
+            "image": "assets/images/Richardsapphire.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Audemars Piguet Royal Oak Grande Complication",
+            "price": "$850 k",
+            "description": "a high-end luxury watch featuring a perpetual calendar, minute repeater, and split-second chronograph. The watch is powered by the Calibre 2885 self-winding movement, which is housed in a 44mm 18K white gold case. The timepiece is known for its exceptional craftsmanship, iconic design, and intricate complications.",
+            "image": "assets/images/royaloakgrandeAP.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "Jacob & Co. Astronomia Tourbillon",
+            "price": "$925k",
+            "description": "a high-end luxury watch featuring a unique three-dimensional display of the solar system, with a rotating tourbillon and a rotating globe. The watch is powered by the JCAM12 manual-winding movement, which is visible through the transparent case. The timepiece is known for its exceptional craftsmanship, innovative design, and intricate complications",
+            "image": "assets/images/astronomia.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Greubel Forsey Quadruple Tourbillon",
+            "price": "$850k",
+            "description": "a high-end luxury watch featuring four tourbillon cages, which work together to improve timekeeping accuracy. The watch is powered by a hand-wound movement with a 50-hour power reserve. The timepiece is known for its exceptional craftsmanship, innovative design, and intricate complications.",
+            "image": "assets/images/greubel.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Vacheron Constantin Reference 57260",
+            "price": "$8million",
+            "description": "a high-end luxury watch featuring 57 complications, including a perpetual calendar, a minute repeater, a tourbillon, and a split-second chronograph. The watch is powered by the Calibre 3750 manual-winding movement, which is housed in a 98mm 18K white gold case. The timepiece is known for its exceptional craftsmanship, intricate design, and numerous complications, making it one of the most complicated watches ever created.",
+            "image": "assets/images/vacheron.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "F.P. Journe Tourbillon Souverain",
+            "price": "$250k",
+            "description": "a high-end luxury watch featuring a tourbillon and a remontoire d'egalite, a constant-force mechanism that ensures consistent power delivery to the balance wheel. The watch is powered by the Calibre 1509 manual-winding movement, which is housed in a 40mm 18K rose gold case. The timepiece is known for its exceptional craftsmanship, innovative design, and intricate complications.",
+            "image": "assets/images/journe.jpeg"
+        }
+    ]
+}
