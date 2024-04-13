@@ -230,6 +230,7 @@ body {
     position: relative;
     top: 20px;
     font-size: 20px;
+    font-weight: bold;
 }
 .moreInfo{
     text-align: center;
